@@ -70,7 +70,7 @@ export default function Banner() {
                     </div>
                     <div className='grid grid-cols-6 gap-[15px] p-[15px]'>
                         <div>
-                            <img src="images/one.jpeg" className='rounded-[10px]' />
+                            <img src="/public/images/one.jpeg" className='rounded-[10px]' />
                             <div className='leading-[10px] text-left  p-[8px] font-bold rounded-[10px]'>
                                 <p className='text-[17px] leading-[25px]'>Pal Pal</p>
                                 <p className='text-[13px] leading-[25px]'>Afusic,AlisoomroMusic </p>
